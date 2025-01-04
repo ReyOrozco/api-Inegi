@@ -1,0 +1,8 @@
+Inicio del script: Sat Jan 04 2025 11:46:28 GMT-0600 (hora estándar central)
+Conexión a MySQL exitosa.
+Datos de Regular insertados/actualizados correctamente.
+Datos de Premium insertados/actualizados correctamente.
+Datos de Diésel insertados/actualizados correctamente.
+Datos de Gas insertados/actualizados correctamente.
+Conexión a la base de datos cerrada.
+Fin del script: Sat Jan 04 2025 11:46:30 GMT-0600 (hora estándar central)
